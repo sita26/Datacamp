@@ -8,6 +8,18 @@
 # print(round(4.568, 2))
 
 
-x = ['mom', 'dad', 'bro', 'sis', 'frd']
+#x = ['mom', 'dad', 'bro', 'sis', 'frd']
 # print(x.index('bro'))
-print(x.count('sis'))
+# print(x.count('sis'))
+
+
+#x = 'hina'
+#print(x.capitalize())
+#print(x.replace('hi','ki'))
+
+
+
+
+x = ['mom', 'dad', 'bro', 'sis', 'frd']
+x.append('anusha')
+print(x)
